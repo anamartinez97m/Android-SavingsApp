@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MySavings</string>
+    <string name="prompt_username">Nombre de usuario</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="prompt_repeat_password">Repetir contraseña</string>
+    <string name="action_sign_in_short">Acceder</string>
+    <string name="action_sign_up_short">Registrar</string>
+    <string name="registration"><u>¿Eres nuevo?</u></string>
+    <string name="checkBoxPassword">Mostrar / Ocultar contraseña</string>
+
+    <string name="editTextNameConcept">Nombre del concepto</string>
+
+    <string name="nameCat1">Ingresos</string>
+    <string name="nameCat2">Comidas</string>
+    <string name="nameCat3">Ocio</string>
+    <string name="nameCat4">Vivienda</string>
+    <string name="nameCat5">Transporte</string>
+    <string name="nameCat6">Otros</string>
+    <string name="textviewTotalMenu">Total(€):</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_profile">Perfil</string>
+    <string name="menu_settings">Ajustes</string>
+    <string name="menu_statistics">Estadísticas</string>
+    <string name="menu_logout">Cerrar sesión</string>
+
+    <string name="actionToggleBarBorders">Toggle Bar Borders</string>
+    <string name="actionToggleValues">Toggle Values</string>
+    <string name="actionToggleYValues">Toggle Y-Values</string>
+    <string name="actionToggleXValues">Toggle X-Values</string>
+    <string name="actionToggleIcons">Toggle Icons</string>
+    <string name="actionToggleHighlight">Toggle Highlight</string>
+    <string name="actionToggleSpin">Spin Animation</string>
+    <string name="animateXY">Animate XY</string>
+    <string name="dash">-</string>
+
+</resources>
